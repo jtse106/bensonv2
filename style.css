@@ -1,0 +1,51 @@
+.sacramento-regular {
+    font-family: "Sacramento", cursive;
+    font-weight: 900;
+    font-style: normal;
+  }
+
+#title img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border-color: black;
+    border-style: solid;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+#about2 > div > .nicole {
+    float: left;
+    width: 50%;
+    margin-top: 10px;
+}
+
+#about2 > div > .james {
+    float: right;
+    width: 50%;
+    margin-top: 10px;
+}
+
+#about2 img {
+    float: right;
+    margin: 20px;
+}
+
+#footer {
+    clear: both;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.carousel img {
+    height: 50vh;
+    object-fit: contain;
+}
+
